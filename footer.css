@@ -1,0 +1,9 @@
+#footer{
+	clear:left;
+	background-color: gray;
+}
+#footer span{
+	float: right;
+	display: inline-block;
+	padding: 30px;
+}

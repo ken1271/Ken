@@ -1,0 +1,17 @@
+#header{
+	background-color: #EEE;
+	background-bottom:1px solid black;
+	padding:27px;
+}
+#header div{
+	float: left; 
+}
+#header ul{
+	display: inline-block;
+}
+#header ul li{
+	float: left;
+	width: 160px;
+	text-align: center;
+	position: relative;
+}

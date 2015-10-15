@@ -1,0 +1,9 @@
+#second_container{
+	clear: right;
+	margin-left: 50px 92px;
+}
+#second_container div div{
+	float: left;
+	width: 350px;
+	padding:0 30px;
+}
