@@ -1,15 +1,14 @@
 #container{
-	clear: left;
-	background-color: red;
+	clear: both;
 }
 #container div{
 	width: 800px;
-	margin:0 60px;
+	margin:auto;
 	padding:27px;
 }
-#container div img{
+#container>div>img{
 	float: right;
-	margin-left: 60px;
+	padding: 30px 0px;
 }
 #container div div span{
 	display: block;

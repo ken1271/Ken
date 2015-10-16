@@ -1,0 +1,16 @@
+#second_container{
+	clear: right;
+}
+#second_container div{
+	width: 830px;
+	margin: auto;
+}
+#second_container div div{
+	width: 350px;
+	padding:0 30px;
+	display: inline-block;
+}
+#second_container div div span{
+	display: block;
+
+}

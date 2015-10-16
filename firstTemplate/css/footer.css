@@ -1,0 +1,23 @@
+#footer{
+	clear:left;
+	background-color: #EEE;
+	border-top: 1px solid #E6E6E6;
+	margin:0;
+	padding: 0 60px;
+}
+#footer >div{
+	margin:0 auto;
+	width: 900px;
+	background-color: #EEE;
+	border-top: 1px solid #E6E6E6;
+}
+#footer >div>div{
+	float:left;
+	margin: 0 50px;
+}
+#footer span{
+	display: inline-block;
+	padding: 20px 20px 20px 30px;
+	position: relative;
+	left: 30%;
+}

@@ -1,0 +1,27 @@
+#header{
+	background-color: #EEE;
+	border-bottom: 1px solid #E6E6E6;
+	padding: 0 60px;
+}
+#header>div{
+	margin: auto;
+	width:800px;
+	background-color: #EEE;
+	border-bottom: 1px solid #E6E6E6;
+}
+#header>div>div{
+	float: left; 
+	position: relative;
+	display: inline-block;
+}
+#header ul{
+	display: inline-block;
+	padding:50px;
+	margin:0;
+}
+#header ul li{
+	float: right;
+	width: 120px;
+	text-align: center;
+	position: relative;
+}
