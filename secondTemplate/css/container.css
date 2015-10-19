@@ -1,0 +1,42 @@
+#container{
+
+}
+#container>ul{
+  width:1000px;
+  margin: 0 auto;
+}
+#container>ul>li{
+  display: inline-block;
+  width: 300px;
+  margin: 0 10px;
+  height: 400px;
+  position: relative;
+  background-color: transparent;
+  background-attachment: scroll;
+  background-position: center;
+  background-size: cover;
+}
+#container>ul>li>div{
+  width:300px;
+  position: absolute;
+  bottom: 0;
+  text-align: center;
+  background-color: #535151;
+}
+#container>ul>li>div>a{
+  text-decoration: none;
+  color:black;
+  text-align: center;
+}
+#container>ul>li>div>a>h4{
+  margin:10px 0;
+}
+#itemLeft{
+  background-image: url("img/pic_01.png");
+}
+#itemCenter{
+  background-image: url("img/pic_02.png");
+}
+#itemRight{
+  background-image: url("img/pic_03.png");
+}

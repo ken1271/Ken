@@ -1,0 +1,30 @@
+#containerTop{
+  background-color: transparent;
+  background-image: url("img/cover.jpg");
+  background-position:center;
+  background-size: cover;
+  height: 400px;
+  margin:0 auto;
+  position: relative;
+  min-width: 1000px;
+}
+#containerTop>div{
+  position: absolute;
+  left:35%;
+  top:60%;
+  width:350px;
+  margin: 0 auto;
+  padding: 10px;
+  background-color: white;
+  opacity: 0.5;
+
+}
+#containerTop h1{
+  margin: 0;
+  text-align: center;
+}
+#containerTop>div>a{
+  position: relative;
+  left:20%;
+  bottom:5%;
+}

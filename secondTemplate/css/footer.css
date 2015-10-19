@@ -1,0 +1,45 @@
+#footer{
+  background-color: #535151;
+  text-align: center;
+}
+
+#footer>p{
+  width: 1000px;
+  margin:0 auto;
+}
+#footer>div{
+  width:1000px;
+  margin: 60px auto;
+}
+#footer>div>div{
+  display: inline-block;
+  width:28%;
+  margin: 0 15px;
+}
+#footerleft{
+  position: relative;
+  bottom: 42px;
+}
+#footerleft>ul{
+  padding: 0 0;
+}
+#footerleft>ul>li{
+  display: inline;
+  padding:5px;
+}
+#footerCenter{
+
+}
+#footerCenter>input{
+  margin: 2px 0;
+  border-style: solid;
+  background-color: #EEE;
+  border-color: #EEE
+}
+#footerRight{
+  position: relative;
+  bottom: 28px;
+}
+#footerRight>p{
+  margin:2px 0;
+}

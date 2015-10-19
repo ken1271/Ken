@@ -1,0 +1,27 @@
+#header{
+  background-color: #535151;  
+  top:0;
+}
+#header>div{
+  width:1000px;
+  margin: 0 auto;
+}
+#header>div>ul{
+  display: inline;
+  type:none;
+  position: relative;
+  bottom: 50px;
+}
+#header>div>ul>li{
+  display: inline;
+  padding:25px;
+  text-decoration: none;
+}
+#header>div>ul>li>a{
+  text-decoration: none;
+  color: #FFF;
+}
+#header-cart{
+  position: relative;
+  bottom:20px;
+}
